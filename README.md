@@ -8,9 +8,7 @@ _Note: The prefix used is "."_
 
 # Future Commands # 
 .rotate : makes an auto host rotate
------------------------------------
 .rps <argument> : does rock paper scissors, for example:
 RandomGuyUsingSnowyBot: .rps paper
 (this will be random) SnowyBot: I choose scissors. I win!/paper. We drew! Wanna play again? :D/rock. Aw man, you won. Let's do a rematch!
------------------------------------
-.
+
